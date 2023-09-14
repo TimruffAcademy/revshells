@@ -37,7 +37,7 @@ docker run -d -p 80:80 reverse_shell_generator
 
 Browse to http://localhost:80
 
-## Contributors ✨
+## Contributeurs
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
